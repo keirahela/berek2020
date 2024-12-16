@@ -1,0 +1,14 @@
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.AssemblyInfoInputs.cache
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.AssemblyInfo.cs
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.csproj.CoreCompileInputs.cache
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\bin\Debug\net8.0\Berek2020.exe
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\bin\Debug\net8.0\Berek2020.deps.json
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\bin\Debug\net8.0\Berek2020.runtimeconfig.json
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\bin\Debug\net8.0\Berek2020.dll
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\bin\Debug\net8.0\Berek2020.pdb
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.dll
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\refint\Berek2020.dll
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.pdb
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\Berek2020.genruntimeconfig.cache
+C:\Users\kosa.mark\source\repos\Berek2020\Berek2020\obj\Debug\net8.0\ref\Berek2020.dll
